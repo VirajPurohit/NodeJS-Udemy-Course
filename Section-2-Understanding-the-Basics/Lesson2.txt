@@ -1,0 +1,24 @@
+Node app.js --> Start Script --> Parse Code, Register Variable and Functions -->  Event Loop --> process.exit();
+
+Event Loop : Keeps on running as long as there is work to be done or as long as there are event listeners registered
+
+NodeJS uses single threaded javascript
+
+We can quit our Node.js server by pressing Ctrl + C
+
+------------------------------------
+Understanding Request Object
+--------------------------------- 
+
+Some Imp Properties :
+
+headers : contains metadata about request / response
+
+headers.host : "hostname"
+
+req.url :  URL will be everything after hostname, so for server running on localhost:3000l, it will be /
+
+req.method:
+
+req.headers: 
+
