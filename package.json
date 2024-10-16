@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-udemy-course-practice-files",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VirajPurohit/NodeJS-Udemy-Course.git"
+  },
+  "author": "Viraj Purohit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VirajPurohit/NodeJS-Udemy-Course/issues"
+  },
+  "homepage": "https://github.com/VirajPurohit/NodeJS-Udemy-Course#readme",
+  "description": ""
+}
